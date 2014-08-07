@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\STM32F10x_StdPeriph_Driver\inc -I.\STM32F10x_StdPeriph_Driver\src -I.\Base -I..\stm32f107 -I.\Src -I.\UserCode -I.\UserCode\inc -I.\UserCode\src 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\ST\STM32F10x 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL -o ".\Release\fonts.o" --omf_browse ".\Release\fonts.crf" --depend ".\Release\fonts.d" "UserCode\src\fonts.c"

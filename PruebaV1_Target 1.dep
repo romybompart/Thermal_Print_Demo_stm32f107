@@ -1,0 +1,2 @@
+Dependencies for Project 'PruebaV1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_cl.s)(0x50880974)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x --list "startup_stm32f10x_cl.lst" --xref -o "startup_stm32f10x_cl.o" --depend "startup_stm32f10x_cl.d")

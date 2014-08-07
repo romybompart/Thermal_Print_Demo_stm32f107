@@ -1,0 +1,16 @@
+.\Release\system_stm32f10x.o: Base\system_stm32f10x.c
+.\Release\system_stm32f10x.o: Base\stm32f10x.h
+.\Release\system_stm32f10x.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Release\system_stm32f10x.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Release\system_stm32f10x.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Release\system_stm32f10x.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Release\system_stm32f10x.o: Base\system_stm32f10x.h
+.\Release\system_stm32f10x.o: Base\stm32f10x_conf.h
+.\Release\system_stm32f10x.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\Release\system_stm32f10x.o: .\Base\stm32f10x.h
+.\Release\system_stm32f10x.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\Release\system_stm32f10x.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Release\system_stm32f10x.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\Release\system_stm32f10x.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\Release\system_stm32f10x.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\Release\system_stm32f10x.o: .\STM32F10x_StdPeriph_Driver\inc\misc.h

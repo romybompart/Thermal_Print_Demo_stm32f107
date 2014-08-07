@@ -1,0 +1,5 @@
+--cpu Cortex-M3 "startup_stm32f10x_cl.o" 
+--strict --scatter "PruebaV1.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\PruebaV1.map" -o PruebaV1.axf

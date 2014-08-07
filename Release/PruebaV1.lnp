@@ -1,0 +1,5 @@
+--cpu Cortex-M3 ".\release\startup_stm32f10x_cl.o" ".\release\stm32f10x_usart.o" ".\release\stm32f10x_rcc.o" ".\release\stm32f10x_gpio.o" ".\release\stm32f10x_spi.o" ".\release\stm32f10x_adc.o" ".\release\stm32f10x_dma.o" ".\release\stm32f10x_it.o" ".\release\system_stm32f10x.o" ".\release\main.o" ".\release\header_hardware.o" ".\release\fonts.o" 
+--strict --scatter ".\Release\PruebaV1.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Project\PruebaV1.map" -o .\Release\PruebaV1.axf

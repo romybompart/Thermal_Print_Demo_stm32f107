@@ -1,0 +1,17 @@
+.\Release\stm32f10x_gpio.o: STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c
+.\Release\stm32f10x_gpio.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Release\stm32f10x_gpio.o: .\Base\stm32f10x.h
+.\Release\stm32f10x_gpio.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Release\stm32f10x_gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Release\stm32f10x_gpio.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Release\stm32f10x_gpio.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Release\stm32f10x_gpio.o: .\Base\system_stm32f10x.h
+.\Release\stm32f10x_gpio.o: .\Base\stm32f10x_conf.h
+.\Release\stm32f10x_gpio.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\Release\stm32f10x_gpio.o: .\Base\stm32f10x.h
+.\Release\stm32f10x_gpio.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\Release\stm32f10x_gpio.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\Release\stm32f10x_gpio.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\Release\stm32f10x_gpio.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\Release\stm32f10x_gpio.o: .\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\Release\stm32f10x_gpio.o: .\STM32F10x_StdPeriph_Driver\inc\misc.h

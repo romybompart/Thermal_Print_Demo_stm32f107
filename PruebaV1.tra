@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'PruebaV1.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_stm32f10x_cl.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "startup_stm32f10x_cl.o" 
+--strict --scatter "PruebaV1.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\PruebaV1.map" -o PruebaV1.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'PruebaV1.axf'
+### ADS-LD Command File: 'PruebaV1.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'PruebaV1.lnp', Handle=0x00000554
+### Writing '.lnp' file
+### ADS-LD Command file 'PruebaV1.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 1 errors
+### Updating obj list
+### LDADS_file() completed.
